@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This assignment implements a Convolutional Neural Network (CNN) for image classification and experiments with data augmentation techniques to improve model generalization. The notebook walks through data loading, preprocessing, augmentation pipelines, model definition, training, evaluation, and visualization of results.
+This project implements a Convolutional Neural Network (CNN) for image classification and experiments with data augmentation techniques to improve model generalization. The notebook walks through data loading, preprocessing, augmentation pipelines, model definition, training, evaluation, and visualization of results.
 
 ## Goals
 
