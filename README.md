@@ -10,7 +10,6 @@ This project implements a Convolutional Neural Network (CNN) for image classific
 * Apply common data augmentation methods (rotation, flips, shifts, zoom, brightness, etc.) and compare performance with/without augmentation.
 * Visualize training history (accuracy & loss) and sample predictions.
 
-# Dataset from kaggle
 
 ## Environment & Requirements
 
@@ -22,6 +21,7 @@ Recommended Python environment (tested with Python 3.8+):
 * `scikit-learn`
 * `tensorflow` or `keras` (specify the one used in the notebook)
 * `torch` / `torchvision` — only if the notebook uses PyTorch (adjust accordingly)
+* Dataset from Kaggle
 
 ## Notebook Structure (High-level)
 
